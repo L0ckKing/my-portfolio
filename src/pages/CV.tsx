@@ -1,4 +1,4 @@
-import { Terminal, BookOpen, GraduationCap, MapPin, IdCardLanyard} from 'lucide-react';
+import { Terminal, GraduationCap, MapPin, IdCardLanyard} from 'lucide-react';
 import myAvatar from '../assets/minimal-style-landscape-design_1048-19243.avif';
 
 export default function cv() {

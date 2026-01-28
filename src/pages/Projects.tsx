@@ -1,4 +1,4 @@
-import { Book, Cpu, Binary, Layers } from 'lucide-react';
+import {Cpu, Binary, Layers } from 'lucide-react';
 
 const Projects = () => {
   const projects = [

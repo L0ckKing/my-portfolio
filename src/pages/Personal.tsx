@@ -1,4 +1,4 @@
-import { ExternalLink, Github, Sparkles, Smartphone, Pickaxe } from 'lucide-react';
+import { ExternalLink, Sparkles, Smartphone, Pickaxe } from 'lucide-react';
 
 const PersonalProjects = () => {
   const projects = [
