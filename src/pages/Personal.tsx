@@ -5,7 +5,7 @@ const PersonalProjects = () => {
     {
       title: "This  Website!",
       tags: ["React", "Github Pages"],
-      desc: "A full-stack mobile dashboard for financial management. Implemented real-time data tracking and secure backend architecture.",
+      desc: "I fully built this website using React JS and templates from React Bits for the most professional experience.",
       icon: <Smartphone className="text-blue-400" />,
       color: "from-blue-500/20 to-transparent"
     },
