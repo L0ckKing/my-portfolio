@@ -8,8 +8,8 @@ const items = [
     bgColor: "#0D0716",
     textColor: "#fff",
     links: [
-      { label: "Home", ariaLabel: "Home", href: "/" },
-      { label: "About Me", ariaLabel: "About Me", href: "/cv" }
+      { label: "Home", ariaLabel: "Home", href: "/#" },
+      { label: "About Me", ariaLabel: "About Me", href: "/#/cv" }
     ]
   },
   {
@@ -17,8 +17,8 @@ const items = [
     bgColor: "#170D27",
     textColor: "#fff",
     links: [
-      { label: "Academic", ariaLabel: "School Projects", href: "/projects/school" },
-      { label: "Personal", ariaLabel: "Personal Projects", href: "/projects/personal" }
+      { label: "Academic", ariaLabel: "School Projects", href: "/#/projects/school" },
+      { label: "Personal", ariaLabel: "Personal Projects", href: "/#/projects/personal" }
     ]
   },
   {
@@ -26,7 +26,7 @@ const items = [
     bgColor: "#160b2a", 
     textColor: "#fff",
     links: [
-      { label: "Email", ariaLabel: "Email Me", href: "/extra" },
+      { label: "Email", ariaLabel: "Email Me", href: "/#/extra" },
       { label: "Github", ariaLabel: "Github", href: "https://github.com/L0ckKing" },
       { label: "LinkedIn", ariaLabel: "LinkedIn", href: "https://www.linkedin.com/in/mohamed-sadqui/" }
     ]
