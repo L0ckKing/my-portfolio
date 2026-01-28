@@ -19,7 +19,7 @@ const Extra = () => {
           
           {/* Email Card */}
           <a 
-            href="mailto:your.email@mail.mcgill.ca" 
+            href="mailto:mo.sadqui@gmail.com" 
             className="group p-8 rounded-3xl bg-zinc-900/50 border border-white/5 hover:border-blue-500/50 transition-all flex flex-col items-center text-center"
           >
             <div className="p-4 bg-blue-500/10 rounded-2xl mb-4 group-hover:scale-110 transition-transform">
@@ -31,7 +31,7 @@ const Extra = () => {
 
           {/* Phone Card */}
           <a 
-            href="tel:+15140000000" 
+            href="tel:+15142499219" 
             className="group p-8 rounded-3xl bg-zinc-900/50 border border-white/5 hover:border-purple-500/50 transition-all flex flex-col items-center text-center"
           >
             <div className="p-4 bg-purple-500/10 rounded-2xl mb-4 group-hover:scale-110 transition-transform">
